@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on Flask application.
-- 🌱 I’m currently learning about **VPN, Flask and Django frameworks.**
+- 🌱 I’m currently learning about **Flask and Django frameworks.**
 - 💬 Ask me about anything.
 - 📫 How to reach me: qwertyqss19@gmail.com
 - ⚡ Fun fact: I'm amateur chess player with ranking over 1300 😄
