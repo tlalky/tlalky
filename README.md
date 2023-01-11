@@ -6,7 +6,7 @@
 ---------------------------------
 
 
-- 🔭 I’m currently working on Flask application.
+- 🔭 I’m currently working on Django application.
 - 🌱 I’m currently learning about **Flask and Django frameworks.**
 - 💬 Ask me about anything.
 - 📫 How to reach me: qwertyqss19@gmail.com
