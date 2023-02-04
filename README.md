@@ -1,7 +1,7 @@
 ### <h1 align="center">Hey, Sebastian here👋</h1>
 
 
-**<p align="center">A passionate polish software and network engineer. Looking for a job in Cracow, Poland or remote 🌴.</p>**
+**<p align="center">A passionate polish software and network engineer.</p>**
 
 ---------------------------------
 
