@@ -6,8 +6,8 @@
 ---------------------------------
 
 
-- 🔭 I’m currently working on Django application.
-- 🌱 I’m currently learning about **Flask and Django frameworks.**
+- 🔭 I’m currently working on Robot application.
+- 🌱 I’m currently learning about **Robot frameworks.**
 - 💬 Ask me about anything.
 - 📫 How to reach me: qwertyqss19@gmail.com
 - ⚡ Fun fact: I'm amateur chess player with ranking over 1300 😄
