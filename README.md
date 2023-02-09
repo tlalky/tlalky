@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on Robot application.
-- 🌱 I’m currently learning about **Robot frameworks.**
+- 🌱 I’m currently learning about **Robot framework.**
 - 💬 Ask me about anything.
 - 📫 How to reach me: qwertyqss19@gmail.com
 - ⚡ Fun fact: I'm amateur chess player with ranking over 1300 😄
