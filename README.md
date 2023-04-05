@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on greater understanding of Linux.
-- 🌱 I’m currently learning about **Linux and Bash**
+- 🌱 I’m currently learning about **Linux and 5G networks**
 - 💬 Ask me about anything.
 - 📫 How to reach me: qwertyqss19@gmail.com
 - ⚡ Fun fact: I'm amateur chess player with ranking over 1300 😄
