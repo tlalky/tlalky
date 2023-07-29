@@ -6,7 +6,7 @@
 ---------------------------------
 
 
-- 🔭 I’m currently working on greater understanding of Linux.
+- 🔭 I’m currently working on better understanding of Linux.
 - 🌱 I’m currently learning about **Linux and 5G networks**
 - 💬 Ask me about anything.
 - 📫 How to reach me: qwertyqss19@gmail.com
