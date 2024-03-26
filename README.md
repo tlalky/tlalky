@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning about **Linux and 5G networks**
 - 💬 Ask me about anything.
 - 📫 How to reach me: qwertyqss19@gmail.com
-- ⚡ Fun fact: I'm amateur chess player with ranking over 1300 😄
+- ⚡ Fun fact: I'm amateur chess player with ranking around 1500 😄
 
 <!--
 **tlalky/tlalky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
